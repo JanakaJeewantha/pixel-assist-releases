@@ -1,1 +1,12 @@
-{   "version": "1.7.8",   "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.7.8/payload-dml.zip", "sha256": "229d3b7f21134c6f84003563ac23e7bb253df82e9159124c4f507c669866a11c", "size_bytes": 476355056 } ] },   "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.7.8/payload-dml.zip", "sha256": "229d3b7f21134c6f84003563ac23e7bb253df82e9159124c4f507c669866a11c", "size_bytes": 476355056 } ] },   "inapp_runtime": {     "version": "rt-1",     "parts": [       { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.0.3/runtime-cuda.zip.001", "sha256": "b95dc64e414cfa0515b1bda1614f95aa6badbf815d4f0d11fd688307070cace8", "size_bytes": 1992294400 },       { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.0.3/runtime-cuda.zip.002", "sha256": "675e83aaf7307031a0098da9ab11b892474a3b5692a68c8ba8303a95b433383e", "size_bytes": 1851032848 }     ]   } }
+{
+  "version": "1.7.9",
+  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.7.9/payload-dml.zip", "sha256": "23e0b6427ff63811c6ecc78c347b1952bd211df981a14ece44970b0c5681c196", "size_bytes": 476355071 } ] },
+  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.7.9/payload-dml.zip", "sha256": "23e0b6427ff63811c6ecc78c347b1952bd211df981a14ece44970b0c5681c196", "size_bytes": 476355071 } ] },
+  "inapp_runtime": {
+    "version": "rt-1",
+    "parts": [
+      { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.0.3/runtime-cuda.zip.001", "sha256": "b95dc64e414cfa0515b1bda1614f95aa6badbf815d4f0d11fd688307070cace8", "size_bytes": 1992294400 },
+      { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.0.3/runtime-cuda.zip.002", "sha256": "675e83aaf7307031a0098da9ab11b892474a3b5692a68c8ba8303a95b433383e", "size_bytes": 1851032848 }
+    ]
+  }
+}
