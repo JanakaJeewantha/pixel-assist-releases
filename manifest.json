@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5",
-  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.8.5/payload-dml.zip", "sha256": "76666429283a86b2ce8555457ca5a92b2d4c0becc6a9295d4d46c6d3c2e85518", "size_bytes": 657088925 } ] },
-  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.8.5/payload-dml.zip", "sha256": "76666429283a86b2ce8555457ca5a92b2d4c0becc6a9295d4d46c6d3c2e85518", "size_bytes": 657088925 } ] },
+  "version": "1.8.6",
+  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.8.6/payload-dml.zip", "sha256": "9cb177c134e25c52e89fdacead236a616cdfca204bb3c2fedf226a7623c905d2", "size_bytes": 657180219 } ] },
+  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v1.8.6/payload-dml.zip", "sha256": "9cb177c134e25c52e89fdacead236a616cdfca204bb3c2fedf226a7623c905d2", "size_bytes": 657180219 } ] },
   "inapp_runtime": {
     "version": "rt-1",
     "parts": [
