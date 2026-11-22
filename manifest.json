@@ -1,20 +1,20 @@
 {
-    "version":  "2.0.1",
+    "version":  "2.0.2",
     "cuda":  {
                  "parts":  [
                                {
-                                   "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.0.1/payload-dml.zip",
-                                   "sha256":  "f6456fee17353bf5dfdc039805433fe18396cc6e6249f84166ef8fed716dbb40",
-                                   "size_bytes":  356618825
+                                   "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.0.2/payload-dml.zip",
+                                   "sha256":  "2b021167b1fc5407516add34f0ae8ac09e85fdb9d1c1aef13036aaed490449d8",
+                                   "size_bytes":  356618872
                                }
                            ]
              },
     "dml":  {
                 "parts":  [
                               {
-                                  "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.0.1/payload-dml.zip",
-                                  "sha256":  "f6456fee17353bf5dfdc039805433fe18396cc6e6249f84166ef8fed716dbb40",
-                                  "size_bytes":  356618825
+                                  "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.0.2/payload-dml.zip",
+                                  "sha256":  "2b021167b1fc5407516add34f0ae8ac09e85fdb9d1c1aef13036aaed490449d8",
+                                  "size_bytes":  356618872
                               }
                           ]
             },
