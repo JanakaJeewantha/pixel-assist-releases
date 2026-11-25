@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
-  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.1/app-update.zip", "sha256": "d5604a6c4899956dc1d5e1a23d60c428605590a3a7e588c2e5825c787997822b", "size_bytes": 1460541 } ] },
-  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.1/payload-dml.zip", "sha256": "a22372c764fe9fc782b3588869ee59f554b1b425580b3d121c918b4e99a37c63", "size_bytes": 283964001 } ] },
-  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.1/payload-dml.zip", "sha256": "a22372c764fe9fc782b3588869ee59f554b1b425580b3d121c918b4e99a37c63", "size_bytes": 283964001 } ] },
+  "version": "2.4.2",
+  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.2/app-update.zip", "sha256": "f2f882db9d3f1ca1a047ca470df3474fba78a1c7fd4c6472cda2e77468212a9f", "size_bytes": 1461137 } ] },
+  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.2/payload-dml.zip", "sha256": "1728d328852c79060e3b5d7b7e8dcfbf863e5fc3122adbee872df496d4966c1f", "size_bytes": 283964702 } ] },
+  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.2/payload-dml.zip", "sha256": "1728d328852c79060e3b5d7b7e8dcfbf863e5fc3122adbee872df496d4966c1f", "size_bytes": 283964702 } ] },
   "inapp_runtime": {
     "version": "rt-1",
     "parts": [
@@ -11,8 +11,8 @@
     ]
   },
   "loader": {
-    "version": "2.4.1",
-    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.1/PixelAssistSetup.exe",
-    "sha256": "92f35e7775b7bdf211bcb5b9b38396cf29c756969df44428e2ee6ad08f0c4bfe"
+    "version": "2.4.2",
+    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.2/PixelAssistSetup.exe",
+    "sha256": "bb5bb4969473810e0cd7eb66ce6f1bf7ed97884692edaeac4849bc82adfcc5cc"
   }
 }
