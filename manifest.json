@@ -34,8 +34,8 @@
                                     ]
                       },
     "loader":  {
-                   "version":  "2.3.0",
+                   "version":  "2.3.1",
                    "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.3.1/PixelAssistSetup.exe",
-                   "sha256":  "03efd9bada17d3f00f257d7ba0873485860aebe679ccc8674e67aa75a4368b26"
+                   "sha256":  "b62323570b66bd54b83da74c3042a2a18f7d008fd8eb8e27481218aba713f883"
                }
 }
