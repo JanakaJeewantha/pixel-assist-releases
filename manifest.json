@@ -1,20 +1,20 @@
 {
-    "version":  "2.3.1",
+    "version":  "2.3.2",
     "cuda":  {
                  "parts":  [
                                {
-                                   "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.3.1/payload-dml.zip",
-                                   "sha256":  "957244016e3cc3477d16e4222a9b8fe13fca4d3e33b7b9859e8fc61eba50c501",
-                                   "size_bytes":  402244788
+                                   "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.3.2/payload-dml.zip",
+                                   "sha256":  "a985b7600e87248645535c1456245ef3e4fd5c87ee003b29630e5ec47bf89bb2",
+                                   "size_bytes":  323433516
                                }
                            ]
              },
     "dml":  {
                 "parts":  [
                               {
-                                  "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.3.1/payload-dml.zip",
-                                  "sha256":  "957244016e3cc3477d16e4222a9b8fe13fca4d3e33b7b9859e8fc61eba50c501",
-                                  "size_bytes":  402244788
+                                  "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.3.2/payload-dml.zip",
+                                  "sha256":  "a985b7600e87248645535c1456245ef3e4fd5c87ee003b29630e5ec47bf89bb2",
+                                  "size_bytes":  323433516
                               }
                           ]
             },
@@ -35,7 +35,7 @@
                       },
     "loader":  {
                    "version":  "2.3.1",
-                   "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.3.1/PixelAssistSetup.exe",
+                   "url":  "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.3.2/PixelAssistSetup.exe",
                    "sha256":  "b62323570b66bd54b83da74c3042a2a18f7d008fd8eb8e27481218aba713f883"
                }
 }
