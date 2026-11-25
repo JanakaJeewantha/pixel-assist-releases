@@ -1,8 +1,8 @@
 {
-  "version": "2.4.0",
-  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.0/app-update.zip", "sha256": "18b1cec80a34194146d82d29669de118acfc0b490fcdc5e2aeb1f15c872e12b8", "size_bytes": 1460441 } ] },
-  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.0/payload-dml.zip", "sha256": "1424cfc7036143a4feedd864773d4ed9090f9ce8db7cd911f4e6b7fe4b7963a9", "size_bytes": 321913047 } ] },
-  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.0/payload-dml.zip", "sha256": "1424cfc7036143a4feedd864773d4ed9090f9ce8db7cd911f4e6b7fe4b7963a9", "size_bytes": 321913047 } ] },
+  "version": "2.4.1",
+  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.1/app-update.zip", "sha256": "d5604a6c4899956dc1d5e1a23d60c428605590a3a7e588c2e5825c787997822b", "size_bytes": 1460541 } ] },
+  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.1/payload-dml.zip", "sha256": "a22372c764fe9fc782b3588869ee59f554b1b425580b3d121c918b4e99a37c63", "size_bytes": 283964001 } ] },
+  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.1/payload-dml.zip", "sha256": "a22372c764fe9fc782b3588869ee59f554b1b425580b3d121c918b4e99a37c63", "size_bytes": 283964001 } ] },
   "inapp_runtime": {
     "version": "rt-1",
     "parts": [
@@ -11,8 +11,8 @@
     ]
   },
   "loader": {
-    "version": "2.4.0",
-    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.0/PixelAssistSetup.exe",
-    "sha256": "401eb60c8995667a5ec14caea5b0fd9f9e5ff7e421e627773305e61daea8caf2"
+    "version": "2.4.1",
+    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.4.1/PixelAssistSetup.exe",
+    "sha256": "92f35e7775b7bdf211bcb5b9b38396cf29c756969df44428e2ee6ad08f0c4bfe"
   }
 }
