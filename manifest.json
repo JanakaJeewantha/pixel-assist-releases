@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
-  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.0/app-update.zip", "sha256": "d33d4584599b70c5347e79be741d0702da58b4e8681b7bb0be2512b90cc2b5cf", "size_bytes": 1467759 } ] },
-  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.0/payload-dml.zip", "sha256": "91a2f39a505be4e05a42c140f97f00985f01cf7ce2bb0dc6c673bddaf9ba5eac", "size_bytes": 263878081 } ] },
-  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.0/payload-dml.zip", "sha256": "91a2f39a505be4e05a42c140f97f00985f01cf7ce2bb0dc6c673bddaf9ba5eac", "size_bytes": 263878081 } ] },
+  "version": "2.6.1",
+  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.1/app-update.zip", "sha256": "16fb03d3740bb29eaf047663c315253d142ee1d3cde22a70e2a130658494ce4f", "size_bytes": 1469591 } ] },
+  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.1/payload-dml.zip", "sha256": "8cace8320fb4f08e9c5f87a0fbb89ffe9d4e7c9be521542bc117892c71d0ed25", "size_bytes": 263879913 } ] },
+  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.1/payload-dml.zip", "sha256": "8cace8320fb4f08e9c5f87a0fbb89ffe9d4e7c9be521542bc117892c71d0ed25", "size_bytes": 263879913 } ] },
   "inapp_runtime": {
     "version": "rt-1",
     "parts": [
@@ -11,8 +11,8 @@
     ]
   },
   "loader": {
-    "version": "2.6.0",
-    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.0/PixelAssistSetup.exe",
-    "sha256": "be402bdd4176d8587acc6550327f57c07f39da5fe5470a0287e3360d63f44da8"
+    "version": "2.6.1",
+    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.1/PixelAssistSetup.exe",
+    "sha256": "b7912453e71bad0817f5a8238fe94a2fbca478a8615171da8653c1128df8073b"
   }
 }
