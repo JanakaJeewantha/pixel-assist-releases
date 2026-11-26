@@ -1,8 +1,8 @@
 {
-  "version": "2.6.2",
-  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.2/app-update.zip", "sha256": "e95923a2397b61f192930e0ceda408bc62d7eec14133c033e84cceb30a72562c", "size_bytes": 1470572 } ] },
-  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.2/payload-dml.zip", "sha256": "1bea365d19bbe0063c7c138299d2d72cd55a87240d33a8ce03f1576509aa63b5", "size_bytes": 263880894 } ] },
-  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.2/payload-dml.zip", "sha256": "1bea365d19bbe0063c7c138299d2d72cd55a87240d33a8ce03f1576509aa63b5", "size_bytes": 263880894 } ] },
+  "version": "2.6.3",
+  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.3/app-update.zip", "sha256": "e45a3cd4afa584d58737e4365b97fb0e19507d9f85e5e37be03ca65149e82d61", "size_bytes": 1471330 } ] },
+  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.3/payload-dml.zip", "sha256": "fe94622228d0dd1e581bf0b25592091b5abfd44b7b753ad24f1fc0fb506ea304", "size_bytes": 263881652 } ] },
+  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.3/payload-dml.zip", "sha256": "fe94622228d0dd1e581bf0b25592091b5abfd44b7b753ad24f1fc0fb506ea304", "size_bytes": 263881652 } ] },
   "inapp_runtime": {
     "version": "rt-1",
     "parts": [
@@ -11,8 +11,8 @@
     ]
   },
   "loader": {
-    "version": "2.6.2",
-    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.2/PixelAssistSetup.exe",
-    "sha256": "1ae9cea012f332e5c362b20b82d73baa784e9211aa557f55d1c446205c0decb7"
+    "version": "2.6.3",
+    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.6.3/PixelAssistSetup.exe",
+    "sha256": "539bd154ecbf2a9305c0d2a1e934587e17b9298b3fcfeaa196023d5a7a672fe9"
   }
 }
