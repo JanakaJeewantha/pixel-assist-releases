@@ -1,8 +1,8 @@
 {
-  "version": "2.8.0",
-  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.0/app-update.zip", "sha256": "ad22575a82b390da6222c2f0167949321f42275b432f4f16e4f054f240fb2ab7", "size_bytes": 1479371 } ] },
-  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.0/payload-dml.zip", "sha256": "681580173a3fec992aa7b05d875d9e76819d50000909e0983b9dac4208dd33a9", "size_bytes": 263889693 } ] },
-  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.0/payload-dml.zip", "sha256": "681580173a3fec992aa7b05d875d9e76819d50000909e0983b9dac4208dd33a9", "size_bytes": 263889693 } ] },
+  "version": "2.8.1",
+  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.1/app-update.zip", "sha256": "dc400fa6f25f6c969ef1561cbe44a7fc994634655128f28241925455b1cf0277", "size_bytes": 1482871 } ] },
+  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.1/payload-dml.zip", "sha256": "4fd7134b010c78711b2682060d0048f8dd9c33bd361d688a47298126e4bf72b0", "size_bytes": 263893193 } ] },
+  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.1/payload-dml.zip", "sha256": "4fd7134b010c78711b2682060d0048f8dd9c33bd361d688a47298126e4bf72b0", "size_bytes": 263893193 } ] },
   "inapp_runtime": {
     "version": "rt-1",
     "parts": [
@@ -11,8 +11,8 @@
     ]
   },
   "loader": {
-    "version": "2.8.0",
-    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.0/PixelAssistSetup.exe",
-    "sha256": "77c0454223aa4b7b082ca2872c87140fcc825f90aa455e8a4d57f9374998da1c"
+    "version": "2.8.1",
+    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.1/PixelAssistSetup.exe",
+    "sha256": "cfa0bea6d5eb2b0b09f747664c1412c0ad7ab0925d20b62c47dba6f6d44e71f0"
   }
 }
