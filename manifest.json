@@ -1,8 +1,8 @@
 {
-  "version": "2.8.2",
-  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.2/app-update.zip", "sha256": "91382d55f6a280e64a2270ce6cc5d713520745f724dfc888c57ae250f3cf0ff8", "size_bytes": 1483508 } ] },
-  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.2/payload-dml.zip", "sha256": "099b14efa38aeaefd74208a7b08e427847d828786f72212986bc978c3eda7e29", "size_bytes": 263893830 } ] },
-  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.2/payload-dml.zip", "sha256": "099b14efa38aeaefd74208a7b08e427847d828786f72212986bc978c3eda7e29", "size_bytes": 263893830 } ] },
+  "version": "2.8.3",
+  "app_update": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.3/app-update.zip", "sha256": "ca5da790ae56b3de46a3737dd9b0794457d334c322eccbba0b3838bbedcdeaca", "size_bytes": 1484020 } ] },
+  "cuda": { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.3/payload-dml.zip", "sha256": "17c8f6b41a9a6054897aa30dbcd0e2175d039cedbab8af374ad1883c6336118f", "size_bytes": 263894342 } ] },
+  "dml":  { "parts": [ { "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.3/payload-dml.zip", "sha256": "17c8f6b41a9a6054897aa30dbcd0e2175d039cedbab8af374ad1883c6336118f", "size_bytes": 263894342 } ] },
   "inapp_runtime": {
     "version": "rt-1",
     "parts": [
@@ -11,8 +11,8 @@
     ]
   },
   "loader": {
-    "version": "2.8.2",
-    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.2/PixelAssistSetup.exe",
-    "sha256": "911dd701507d13d1fa0706d6fa9b4dd47fbeb3bdf1db60c2d0e13e2762b4c3d5"
+    "version": "2.8.3",
+    "url": "https://github.com/JanakaJeewantha/pixel-assist-releases/releases/download/v2.8.3/PixelAssistSetup.exe",
+    "sha256": "985897fde6ff6e0465df54c32ab56cfb9198f5d8153c385eba11b37de8860dda"
   }
 }
